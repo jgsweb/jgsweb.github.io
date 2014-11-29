@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Welcome to Japan Global Scholars' Blog!
-tagline: 
+title: Home
+tagline:
 ---
 {% include JB/setup %}
 
-## 概要
+### Welcome to Japanese Global Scholars' Blog!
 
+### 概要
 これは世界中の日本人学生たちの現地事情を発信していくページです。
-
-
 
 
 <ul class="posts">

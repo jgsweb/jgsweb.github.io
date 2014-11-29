@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Japanese Global Scholars
 tagline:
 ---
 {% include JB/setup %}
@@ -9,6 +9,12 @@ tagline:
 
 ### 概要
 これは世界中の日本人学生たちの現地事情を発信していくページです。
+
+### コンテンツ
+
+TBA.
+
+
 
 
 <ul class="posts">
