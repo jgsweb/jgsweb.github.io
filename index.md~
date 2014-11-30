@@ -1,14 +1,20 @@
 ---
 layout: page
-title: Home
+title: Japanese Global Scholars
 tagline:
 ---
 {% include JB/setup %}
 
-### Welcome to Japanese Global Scholars' Blog!
+### Welcome to Our Blog!
 
 ### 概要
-これは世界中の日本人学生たちの現地事情を発信していくページです。
+世界中の日本人学生が、各々の活動拠点で感じる各地域の特色・文化・社会を日本人学生ならではの視点からリポートします。
+
+### コンテンツ
+
+『長期間住んで、活動してみないと分からない海外現地のミクロでローカルな視点・情報をシェアし合おう！』そんな思いから集った有志の日本人学生が現地の特色・文化・社会をリポート。旅行、留学、ビジネス、交際、多くの局面で感じる世界各地の特徴を日本人学生の生の声で伝えます。
+
+
 
 
 <ul class="posts">
