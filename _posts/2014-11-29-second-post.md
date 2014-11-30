@@ -20,6 +20,6 @@ tags: []
 
 ---
 
-![]({{site.url}}/assets/test.png)
+![]({{site.url}}/assets/uploads/test.png)
 
 Also, this is how we do it.
