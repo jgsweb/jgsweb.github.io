@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「日本」の持つ魅力"
+title: "「日本」の持つ魅力 - JGS Weekly #1"
 description: "Mr.Masahiro Matsuyama"
 category: 
 tags: ["「日本」の持つ魅力"]
